@@ -1,9 +1,9 @@
- 🧮 Calculadora Python
+ Calculadora Python
 
 Una calculadora funcional con interfaz gráfica construida en Python con `tkinter`. Proyecto personal para entrenar en programacion con Python.
 
 
- ✨ Características
+ Características
 
 - **Botones redondeados** con efecto hover al pasar el cursor
 - **Pantalla adaptable** — la fuente se reduce automáticamente cuando el número es largo
@@ -13,7 +13,7 @@ Una calculadora funcional con interfaz gráfica construida en Python con `tkinte
 - **Panel secundario (2nd)** — cambia los botones a funciones extra
 - **Decimales periódicos** — detecta períodos y muestra el símbolo de periodicidad (0.3̄)
 
- 🔢 Operaciones disponibles
+ Operaciones disponibles
 
  Panel principal
 | Botón |              Función |
@@ -32,7 +32,7 @@ Una calculadora funcional con interfaz gráfica construida en Python con `tkinte
 | `^` |                Potencia |
 
 
- ⌨️ Atajos de teclado
+ Atajos de teclado
 
 | Tecla |               Acción |
 |-------|--------|
